@@ -13,7 +13,7 @@
 🎓 Master’s Student – Information Technology & Analytics @ RIT  
 💻 Building cool stuff with Python, AWS, SQL, and Terraform  
 🧠 Exploring AI, Blockchain Analytics & Data Engineering  
-📍 Based in New York, USA  
+📍 Based out of New York, USA  
 🌐 [Portfolio](https://swethasrinivasan.vercel.app)  
 📫 ss9577@rit.edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/swethasrinivasan25/)

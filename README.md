@@ -29,6 +29,6 @@
 
 ### 🌱 Current Goals
 
-- Crack 100+ LeetCode problems  
+- Crack 500+ LeetCode problems  
 - Become a certified Data/Cloud Engineer (Databricks, AWS)  
 - Land a full-time role in Backend, Data, or Cloud/Infra Engineering  

@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Hey I am Swetha" />
+</p>
 
-<!--
-**swetha2507/swetha2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Swetha Srinivasan 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Software/Data Engineer • Cloud & AI Enthusiast • RIT Grad Student  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎓 Master’s Student – Information Technology & Analytics @ RIT  
+💻 Building cool stuff with Python, AWS, SQL, and Terraform  
+🧠 Exploring AI, Blockchain Analytics & Data Engineering  
+📍 Based in New York, USA  
+🌐 [Portfolio](https://swethasrinivasan.vercel.app)  
+📫 ss9577@rit.edu  
+🔗 [LinkedIn](https://www.linkedin.com/in/swethasrinivasan25/)
+
+---
+
+### ⚒️ Projects I’m Proud Of
+
+- **StudyMate** – AI-powered study assistant to fight decision fatigue  
+- **BrevityCloud** – Chrome extension that summarizes and answers questions from live websites  
+
+---
+
+### 🌱 Current Goals
+
+- Crack 100+ LeetCode problems  
+- Become a certified Data/Cloud Engineer (Databricks, AWS)  
+- Land a full-time role in Backend, Data, or Cloud/Infra Engineering  

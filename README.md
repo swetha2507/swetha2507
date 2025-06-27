@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Hey I am Swetha" />
-</p>
+
 
 <h1 align="center">Hi, I'm Swetha Srinivasan 👋</h1>
 
